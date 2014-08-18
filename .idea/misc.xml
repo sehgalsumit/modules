@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpServers">
+    <option name="servers">
+      <server host="localhost" name="local" />
+    </option>
+  </component>
+  <component name="PhpUnit" load_method="PHPUNIT_PHAR" custom_loader_path="" phpunit_phar_path="$PROJECT_DIR$/../../../phpunit.phar" />
+  <component name="ProjectRootManager" version="2" />
+</project>
+
